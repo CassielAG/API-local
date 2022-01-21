@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "consumirAPI",
-    "slug": "consumirAPI",
+    "name": "Proyecto de Libreria",
+    "slug": "libreria",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,10 +23,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
+      },
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyDZG0BKO8ltuA9rlN69LR1RwOxkjk6YsJ0"
+        }
       }
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Alumnos: \nAgüero Gloria José Cassiel\nArroyo Reyes José Luis"
   }
 }
